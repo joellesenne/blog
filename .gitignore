@@ -49,3 +49,5 @@ yarn-error.log*
 # IDE
 .idea
 
+# API
+.env
