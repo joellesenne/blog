@@ -62,6 +62,7 @@ module.exports = () => {
   return plugins.reduce((acc, next) => next(acc), {
     reactStrictMode: true,
     pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
+    images: { unoptimized: true },
     eslint: {
       dirs: ['pages', 'components', 'lib', 'layouts', 'scripts'],
     },
