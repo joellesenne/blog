@@ -1,6 +1,7 @@
 {
-  "name": "starter-blog",
-  "version": "0.0.1",
+  "name": "blog",
+  "description": "A concentrate of reflection, tutorials and watches",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "next dev",
