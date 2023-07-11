@@ -50,7 +50,7 @@
     "@typescript-eslint/eslint-plugin": "^5.58.0",
     "@typescript-eslint/parser": "^5.58.0",
     "cross-env": "^7.0.3",
-    "dedent": "^0.7.0",
+    "dedent": "^1.0.0",
     "esbuild-register": "3.4.2",
     "eslint": "^8.38.0",
     "eslint-config-next": "13.3.0",
