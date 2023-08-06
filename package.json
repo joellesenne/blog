@@ -54,7 +54,7 @@
     "esbuild-register": "3.4.2",
     "eslint": "^8.45.0",
     "eslint-config-next": "13.4.10",
-    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "file-loader": "^6.2.0",
     "globby": "13.2.2",
