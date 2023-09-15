@@ -14,7 +14,7 @@ specifiers:
   cross-env: ^7.0.3
   dedent: ^1.2.0
   esbuild: 0.18.14
-  esbuild-register: 3.4.2
+  esbuild-register: 3.5.0
   eslint: ^8.45.0
   eslint-config-next: 13.4.10
   eslint-config-prettier: ^8.8.0
@@ -90,7 +90,7 @@ devDependencies:
   '@typescript-eslint/parser': 6.1.0_ko3fmmbeyij36muomfgt2u76xu
   cross-env: 7.0.3
   dedent: 1.2.0
-  esbuild-register: 3.4.2_esbuild@0.18.14
+  esbuild-register: 3.5.0_esbuild@0.18.14
   eslint: 8.45.0
   eslint-config-next: 13.4.10_ko3fmmbeyij36muomfgt2u76xu
   eslint-config-prettier: 8.8.0_eslint@8.45.0
@@ -4441,8 +4441,8 @@ packages:
       is-symbol: 1.0.4
     dev: true
 
-  /esbuild-register/3.4.2_esbuild@0.18.14:
-    resolution: {integrity: sha512-kG/XyTDyz6+YDuyfB9ZoSIOOmgyFCH+xPRtsCa8W85HLRV5Csp+o3jWVbOSHgSLfyLc5DmP+KFDNwty4mEjC+Q==}
+  /esbuild-register/3.5.0_esbuild@0.18.14:
+    resolution: {integrity: sha512-+4G/XmakeBAsvJuDugJvtyF1x+XJT4FMocynNpxrvEBViirpfUn2PgNpCHedfWhF4WokNsO/OvMKrmJOIJsI5A==}
     peerDependencies:
       esbuild: '>=0.12 <1'
     dependencies:
