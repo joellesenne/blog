@@ -7,7 +7,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 First fork this project :
 ```bash
 
-- git clone <https://github.com/joellesenne/<project>.git>
+- git clone <https://github.com/joellesenne/posts.git>
 
 - npm install
 

@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development environ
 # Clone this repository
 git clone  https://github.com/joellesenne/blog.git
 
-cd blog
+cd posts
 
 npm install
 
@@ -80,4 +80,5 @@ This project is [MIT](LICENSE) licensed.
 
 ## Acknowledgments
 
--   [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+- [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+- [https://realfavicongenerator.net/](https://realfavicongenerator.net/)
