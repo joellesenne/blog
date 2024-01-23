@@ -1,6 +1,38 @@
-# Blog
+<h1 align="center">
+  Welcome to my Blog 👋
+</h1>
+<p>
+    <a href="https://www.codacy.com/gh/joellesenne/lab/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joellesenne/blog&amp;utm_campaign=Badge_Grade">
+        <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/6553513b8d1b49d2a5f87e96e1fa79e0"/>
+    </a>
+    <img alt="Version" src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
+    <a href="https://github.com/joellesenne/blog#readme" target="_blank">
+        <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    </a>
+    <a href="LICENSE" target="_blank">
+        <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    </a>
+    <a href="https://twitter.com/joellesenne" target="_blank">
+        <img alt="Twitter: joellesenne" src="https://img.shields.io/twitter/follow/joellesenne.svg?style=social" />
+    </a>
+</p>
 
-A concentrate of reflection, tutorials and watches
+> A concentrate of reflection, tutorials and watches
+
+### 🏠 [Homepage](https://github.com/joellesenne/lab.joellesenne.dev)
+
+### ✨ [Demo](https://lab.joellesenne.dev)
+
+**Table of Contents**
+
+- [Prerequisites](#prerequisites)
+- [Install](#install)
+- [Usage](#usage)
+- [Author](#author)
+- [🤝 Contributing](#-contributing)
+- [Show your support](#show-your-support)
+- [📝 License](#-license)
+- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -14,7 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Installing
+## Install
 
 A step by step series of examples that tell you how to get a development environment running.
 
@@ -22,21 +54,28 @@ A step by step series of examples that tell you how to get a development environ
 # Clone this repository
 git clone  https://github.com/joellesenne/blog.git
 
-cd posts
+# Open IDE
+cd posts && code .
 
+#Or
+cd posts && webstorm .
+
+# Install with NPM
 npm install
 
-# OR
-pnpm install
-
-# OR
+# OR YARN
 yarn install
+
+# OR PNPM
+pnpm install
 ```
+## Note
 Create a `.env` file similar to [`.env.example`](.env.example).
 
 ## Usage
 
 ```sh
+# Run with next.js
 npm start
 ```
 
@@ -49,12 +88,13 @@ npm start
 -   [Next.js](https://nextjs.org/) - The web framework used
 -   [Tailwind CSS](https://tailwindcss.com/) - Dependency Management
 
-## Authors
+## Author
 
 👤 **Joël Lesenne**
 
 - Website: https://joellesenne.dev
 - Twitter: [@joellesenne](https://twitter.com/joellesenne)
+- mastodon: [@joellesenne](https://mastodon.social/@joellesenne)
 - Github: [@joellesenne](https://github.com/joellesenne)
 - YouTube: [@joellesenne](https://youtube.com/@joellesenne)
 - LinkedIn: [@joellesenne](https://linkedin.com/in/joellesenne)
@@ -75,7 +115,8 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2023 [Joël Lesenne](https://github.com/joellesenne). <br />
+Copyright © 2024 [Joël Lesenne](https://github.com/joellesenne).
+
 This project is [MIT](LICENSE) licensed.
 
 ## Acknowledgments
