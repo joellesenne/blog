@@ -55,10 +55,10 @@ A step by step series of examples that tell you how to get a development environ
 git clone  https://github.com/joellesenne/blog.git
 
 # Open IDE
-cd posts && code .
+cd blog && code .
 
 #Or
-cd posts && webstorm .
+cd blog && webstorm .
 
 # Install with NPM
 npm install

@@ -1,7 +1,5 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Image from 'next/image'
-import Logo from '@/data/logo.png'
 import Link from '@/components/Link'
 import MobileNav from '@/components/MobileNav'
 import ThemeSwitch from '@/components/ThemeSwitch'
@@ -14,7 +12,7 @@ export default function Header() {
         <Link href="/" aria-label={siteMetadata.headerTitle}>
           <div className="flex items-center justify-between">
             <div className="mr-3">
-              <Image alt="Logo" src={Logo} width="35" height="35" />
+              <img src="static/images/logo.png" alt="Logo" width="53" height="43" loading="lazy" />
             </div>
             {typeof siteMetadata.headerTitle === 'string' ? (
               <div className="hidden h-6 text-2xl font-semibold sm:block">

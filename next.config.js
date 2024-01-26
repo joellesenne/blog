@@ -65,11 +65,18 @@ module.exports = () => {
     eslint: {
       dirs: ['src'],
     },
+    // output: 'export',
+    distDir: 'build',
     images: {
       remotePatterns: [
         {
           protocol: 'https',
           hostname: 'picsum.photos',
+        },
+        {
+          protocol: 'https',
+          hostname: 'blog.joellesenne.dev',
+          pathname: 'static/images/'
         },
       ],
     },
