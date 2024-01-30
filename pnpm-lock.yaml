@@ -51,8 +51,8 @@ dependencies:
     specifier: ^0.2.1
     version: 0.2.1(next@14.1.0)(react-dom@18.2.0)(react@18.2.0)
   pliny:
-    specifier: 0.1.6
-    version: 0.1.6(@algolia/client-search@4.22.1)(@types/react@18.2.48)(esbuild@0.18.11)(next@14.1.0)(react-dom@18.2.0)(react@18.2.0)(search-insights@2.13.0)
+    specifier: 0.1.7
+    version: 0.1.7(@algolia/client-search@4.22.1)(@types/react@18.2.48)(esbuild@0.18.11)(next@14.1.0)(react-dom@18.2.0)(react@18.2.0)(search-insights@2.13.0)
   postcss:
     specifier: ^8.4.24
     version: 8.4.33
@@ -5546,8 +5546,8 @@ packages:
       commander: 8.3.0
     dev: false
 
-  /kbar@0.1.0-beta.44(@types/react@18.2.48)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-hfstBZn/XYhEEobxA6yhMkgu3yHNqAgHbBM/WavC1GvSEMRAVMZAWZBBrNwJCqknSIwu7nS9jsHORENtlrjU1Q==}
+  /kbar@0.1.0-beta.45(@types/react@18.2.48)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-kXvjthqPLoWZXlxLJPrFKioskNdQv1O3Ukg5mqq2ExK3Ix1qvYT3W/ACDRIv/e/CHxPWZoTriB4oFbQ6UCSX5g==}
     peerDependencies:
       react: ^16.0.0 || ^17.0.0 || ^18.0.0
       react-dom: ^16.0.0 || ^17.0.0 || ^18.0.0
@@ -6874,8 +6874,8 @@ packages:
     engines: {node: '>= 6'}
     dev: false
 
-  /pliny@0.1.6(@algolia/client-search@4.22.1)(@types/react@18.2.48)(esbuild@0.18.11)(next@14.1.0)(react-dom@18.2.0)(react@18.2.0)(search-insights@2.13.0):
-    resolution: {integrity: sha512-i1XMUKmWskPoHM9Z9z50X/60lM+rpODfrdFG87cYt/cNvEIaCQBklJ/YAZLEnrVjJNUwTkbbgfjDttsMkb7yhg==}
+  /pliny@0.1.7(@algolia/client-search@4.22.1)(@types/react@18.2.48)(esbuild@0.18.11)(next@14.1.0)(react-dom@18.2.0)(react@18.2.0)(search-insights@2.13.0):
+    resolution: {integrity: sha512-VUjZUN2r5thLx/Y36X5TiwNvRje6myYavgXII/mwr59kn1d2Y67HqcebNi97a3lZuoJnNnnKb6opAvBdgNViBw==}
     peerDependencies:
       next: '>=13.0.0'
       react: ^17.0.2 || ^18.0.0
@@ -6886,9 +6886,9 @@ packages:
       '@mailchimp/mailchimp_marketing': 3.0.80
       contentlayer: 0.3.4(esbuild@0.18.11)
       copyfiles: 2.4.1
-      github-slugger: 1.5.0
+      github-slugger: 2.0.0
       js-yaml: 4.1.0
-      kbar: 0.1.0-beta.44(@types/react@18.2.48)(react-dom@18.2.0)(react@18.2.0)
+      kbar: 0.1.0-beta.45(@types/react@18.2.48)(react-dom@18.2.0)(react@18.2.0)
       next: 14.1.0(@babel/core@7.23.7)(@opentelemetry/api@1.4.1)(react-dom@18.2.0)(react@18.2.0)
       next-contentlayer: 0.3.4(contentlayer@0.3.4)(esbuild@0.18.11)(next@14.1.0)(react-dom@18.2.0)(react@18.2.0)
       next-themes: 0.2.1(next@14.1.0)(react-dom@18.2.0)(react@18.2.0)
