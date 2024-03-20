@@ -27,7 +27,7 @@
     "test": "node -r esbuild-register scripts/postbuild.mjs"
   },
   "dependencies": {
-    "@next/bundle-analyzer": "14.0.3",
+    "@next/bundle-analyzer": "14.1.4",
     "@tailwindcss/forms": "^0.5.4",
     "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.13",
@@ -36,7 +36,7 @@
     "github-slugger": "^1.4.0",
     "gray-matter": "^4.0.2",
     "image-size": "1.0.0",
-    "next": "14.1.0",
+    "next": "14.1.4",
     "next-contentlayer": "0.3.4",
     "next-themes": "^0.2.1",
     "pliny": "0.1.6",
@@ -64,7 +64,7 @@
     "@typescript-eslint/parser": "^6.1.0",
     "cross-env": "^7.0.3",
     "eslint": "^8.45.0",
-    "eslint-config-next": "14.0.3",
+    "eslint-config-next": "14.1.4",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^5.0.0",
     "husky": "^8.0.0",
